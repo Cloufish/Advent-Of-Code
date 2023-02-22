@@ -1,6 +1,9 @@
 [submodule "AoC-Rust"]
 	path = AoC-Rust
 	url = https://github.com/Cloufish/AoC-Rust
+[submodule "AoC-C"]
+	path = AoC-C
+	url = https://github.com/Cloufish/AoC-C
 [submodule "AoC-Embedded-Rust-STM32"]
 	path = AoC-Embedded-Rust-STM32
 	url = https://github.com/Cloufish/AoC-Embedded-Rust-STM32.git
